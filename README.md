@@ -18,5 +18,40 @@
 ### Latest Transactions
 <img width="948" alt="image" src="https://user-images.githubusercontent.com/65717302/231821990-db890ba3-deff-41ad-97ec-b72f7ca83a3c.png">
 
+### Introduction.
+
+Krypt is a Blockchain based Decentralized WebApp used for peer2peer ethereum currency transfer 
+Tech Stack:-Reactjs,CSS,Solidity,NodeJs,Giphy Api
+
+### Description
+
+=>Create MetaMask Account
+Create a MetaMask Account and select network here we used sepolia ethereum for free test ethers 
+
+=> Connect Wallet
+Connect the metamask wallet by clicking on connect wallet button
+after successful connection youy can see your Address on the colour grid 
+
+=> Transfering Crypto
+ Fill up the Details like beneficiary Address amount, Keyword, Personalized Message and hit send 
+
+=> Authorization
+You will see a pop of metaMask Asking to Confirm Transcation, click confirm 
+
+### "Hurray Transaction Complete"
+
+You can also check your Latest Transactions on the Web
+
+### Funny part:- you can view your Latest Transactions along with Funny giphs extracted from the giph search Api
+
+### Tips:-create Atleast two MetaMask Account for Testing and Development
+
+
+
+
+ 
+
+
+
 
 
