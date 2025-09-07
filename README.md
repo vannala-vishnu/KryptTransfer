@@ -44,7 +44,7 @@ You will see a pop of metaMask Asking to Confirm Transcation, click confirm
 
 You can also check your Latest Transactions on the Web
 
-### Funny part:- you can view your Latest Transactions along with Funny giphs extracted from the giph search Api
+Funny part:- you can view your Latest Transactions along with Funny giphs extracted from the giph search Api
 
 ### Tips:-create Atleast two MetaMask Account for Testing and Development
 
@@ -63,6 +63,7 @@ You can also check your Latest Transactions on the Web
 
 
  
+
 
 
 
